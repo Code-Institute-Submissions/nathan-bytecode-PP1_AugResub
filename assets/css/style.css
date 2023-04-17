@@ -1,13 +1,45 @@
 /* Header and logo */
 
 .logo {
+    padding: 30px;
+    width: 200px;
+    height: 200px;
+    margin-right: auto;
+    border-radius: 50%;
+    background-color: aqua;
+    
+    
+     /*color codes from Canva logo: blue= #5271ff, orange= #ff914d, white= #ffffff */
 
 }
 
 .container {
-
+    list-style: none;
+    display: flex;
+    line-height: 15px;
+    background-color: green;
+    
 }
 
 .nav {
     
+    padding: 20px;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #130505;
+    padding-right: 30px;
+    display: inline;
+
+}
+
+#index-verse {
+margin-top: auto;
+text-align: center;
+padding: 10px;
+background-color: blue;
+
 }
