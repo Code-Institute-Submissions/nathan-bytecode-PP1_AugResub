@@ -1,45 +1,74 @@
-/* Header and logo */
+/* Header Section */
 
-.logo {
-    padding: 30px;
-    width: 200px;
+#header {
+    background-image: url(../images/inside-medieval-church_181624-45000.avif);
+   
+}
+
+.container {
+    width: 100%;
     height: 200px;
-    margin-right: auto;
+    list-style: none;
+    display: flex;
+    line-height: 15px;
+    
+    
+}
+
+/* Church logo */
+.logo {
+    width: 40%;
+    float: left;
+    clear: both;
     border-radius: 50%;
-    background-color: aqua;
+
     
     
      /*color codes from Canva logo: blue= #5271ff, orange= #ff914d, white= #ffffff */
 
 }
 
-.container {
-    list-style: none;
-    display: flex;
-    line-height: 15px;
-    background-color: green;
-    
-}
 
+/* Navigation links */
 .nav {
+     
     
-    padding: 20px;
-    text-align: center;
-    background-color: blueviolet;
+    width: 40%;
+    clear: both;
+    display: flex;
+    font-family: 'Merriweather'; /*serif*/
 }
 
 .nav a {
     text-decoration: none;
-    color: #130505;
-    padding-right: 30px;
-    display: inline;
-
+    color: #0c252d;
+    padding-right: 75px;
+    line-height: 50px;
 }
 
+/*Bible Verse */
+
 #index-verse {
+    
+    width: 20%;
+    float: left;
+    margin: 60px auto;
+    text-align: center;
+    clear: both;
+    font-family: 'Open Sans';
+    color: rgb(240, 240, 240);
+    font-weight: bold;
+    font-size: larger;
+    /*
 margin-top: auto;
+margin: 0 auto;
 text-align: center;
+justify-content: center;
 padding: 10px;
 background-color: blue;
+font-family: 'Open Sans';
+clear: both;*/
+
+
 
 }
