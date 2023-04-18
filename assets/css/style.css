@@ -31,7 +31,7 @@
     width: 40%;
     clear: both;
     display: flex;
-    font-family: 'Merriweather'; /*serif*/
+    font-family: 'Merriweather', serif;
 }
 
 .nav a {
@@ -39,6 +39,10 @@
     color: #c3d1d6;
     padding-right: 75px;
     line-height: 50px;
+}
+
+.nav a:hover {
+    text-decoration: underline;
 }
 
 /*Bible Verse */
@@ -54,16 +58,19 @@
     color: #c3d1d6;
     font-weight: bold;
     font-size: larger;
-    /*
-margin-top: auto;
-margin: 0 auto;
-text-align: center;
-justify-content: center;
-padding: 10px;
-background-color: blue;
-font-family: 'Open Sans';
-clear: both;*/
+    
+}
 
+/* Church Video and Greeting */
 
+#church-vid {
+    display: block;
+    margin: 0 auto;
+}
 
+#greeting {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Merriweather', serif;
+    color: #0c252d; 
 }
