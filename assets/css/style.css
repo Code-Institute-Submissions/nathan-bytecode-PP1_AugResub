@@ -7,7 +7,7 @@
     display: flex;
     line-height: 15px;
     background-color: #0c252d;
-    
+
 }
 
 /* Church logo */
@@ -17,17 +17,17 @@
     clear: both;
     border-radius: 50%;
 
-    
-    
-     /*color codes from Canva logo: blue= #5271ff, orange= #ff914d, white= #ffffff */
+
+
+    /*color codes from Canva logo: blue= #5271ff, orange= #ff914d, white= #ffffff */
 
 }
 
 
 /* Navigation links */
 .nav {
-     
-    
+
+
     width: 40%;
     clear: both;
     display: flex;
@@ -48,7 +48,7 @@
 /*Bible Verse */
 
 #index-verse {
-    
+
     width: 20%;
     float: left;
     margin: 60px auto;
@@ -58,7 +58,7 @@
     color: #c3d1d6;
     font-weight: bold;
     font-size: larger;
-    
+
 }
 
 /* Church Video and Greeting */
@@ -68,9 +68,51 @@
     margin: 0 auto;
 }
 
-#greeting {
+.sub-heading {
     text-align: center;
     padding: 20px;
     font-family: 'Merriweather', serif;
-    color: #0c252d; 
+    color: #0c252d;
+}
+
+.service-times {
+    position: relative;
+    margin: 0 auto;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.wednesday {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid #0c252d;
+    background-color: #0ab1e9;
+}
+
+.friday {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid #0c252d;
+    background-color: #0ab1e9;
+}
+
+.sunday {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid #0c252d;
+    background-color: #0ab1e9;
 }
