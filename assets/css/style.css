@@ -1,17 +1,12 @@
 /* Header Section */
 
-#header {
-    background-image: url(../images/inside-medieval-church_181624-45000.avif);
-   
-}
-
 .container {
     width: 100%;
     height: 200px;
     list-style: none;
     display: flex;
     line-height: 15px;
-    
+    background-color: #0c252d;
     
 }
 
@@ -41,7 +36,7 @@
 
 .nav a {
     text-decoration: none;
-    color: #0c252d;
+    color: #c3d1d6;
     padding-right: 75px;
     line-height: 50px;
 }
@@ -56,7 +51,7 @@
     text-align: center;
     clear: both;
     font-family: 'Open Sans';
-    color: rgb(240, 240, 240);
+    color: #c3d1d6;
     font-weight: bold;
     font-size: larger;
     /*
