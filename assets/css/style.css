@@ -80,19 +80,26 @@
 .about-us {
     height: 200px;
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 
 .about-us-text {
     border: 2px solid purple;
-    width: 50%;
-    height: 200px;
+    border: 5px;
     font-family: 'Open Sans';
     color: #000000;
+   
 }
 
-.about-us-img{
-    
+.slideshow {
+border: 2px solid purple;
+padding: 5px;
+float: right;
+ 
 }
+
+
 /* Service Times & Location */
 
 .service-times {
