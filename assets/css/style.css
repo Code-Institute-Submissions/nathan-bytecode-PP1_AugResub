@@ -80,33 +80,34 @@
 .about-us {
     height: 300px;
     width: 100%;
+    padding: 20px;
+    margin: 20px;
     display: flex;
-    margin: 0 auto;
+    
     position: relative;
     text-align: center;
-   
+
 }
 
 .about-us-text {
     width: 50%;
     height: 100%;
-    
-    border: 1px solid purple;
-    font-family: 'Open Sans';
-    color: #000000;
-   
+
+    font-weight: 400;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+    color:#0c252d;
+
 }
 
 
 
-.slideshow {
-    
-    height: 100%;
-    width: 50%;
-    border: 1px solid purple;
-    
- 
+.about-us-img {
+    border-radius: 50%;
 }
+
+
 
 
 /* Service Times & Location */
