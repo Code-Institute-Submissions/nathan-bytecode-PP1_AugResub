@@ -75,6 +75,8 @@
     color: #0c252d;
 }
 
+/* Service Times & Location */
+
 .service-times {
     position: relative;
     margin: 0 auto;
@@ -91,8 +93,9 @@
     display: inline-block;
     margin: 0 auto;
     border-radius: 50%;
-    border: 2px solid #0c252d;
-    background-color: #0ab1e9;
+    border: 2px solid #c3d1d6;
+    background-color: #0c252d;
+    color: #c3d1d6;
 }
 
 .friday {
@@ -102,8 +105,9 @@
     display: inline-block;
     margin: 0 auto;
     border-radius: 50%;
-    border: 2px solid #0c252d;
-    background-color: #0ab1e9;
+    border: 2px solid #c3d1d6;
+    background-color: #0c252d;
+    color: #c3d1d6;
 }
 
 .sunday {
@@ -113,6 +117,7 @@
     display: inline-block;
     margin: 0 auto;
     border-radius: 50%;
-    border: 2px solid #0c252d;
-    background-color: #0ab1e9;
+    border: 2px solid #c3d1d6;
+    background-color: #0c252d;
+    color: #c3d1d6;
 }
