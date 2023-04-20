@@ -75,8 +75,24 @@
     color: #0c252d;
 }
 
-/*
+/*About Us */
 
+.about-us {
+    height: 200px;
+    width: 100%;
+}
+
+.about-us-text {
+    border: 2px solid purple;
+    width: 50%;
+    height: 200px;
+    font-family: 'Open Sans';
+    color: #000000;
+}
+
+.about-us-img{
+    
+}
 /* Service Times & Location */
 
 .service-times {
