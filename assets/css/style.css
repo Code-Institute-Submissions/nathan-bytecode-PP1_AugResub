@@ -168,5 +168,11 @@
     color: #0c252d;
     margin-top: 10px;
 
-    
+    text-decoration: none;
+    text-decoration-style: none;
+
+}
+
+#address a:hover {
+    text-decoration: underline;
 }
