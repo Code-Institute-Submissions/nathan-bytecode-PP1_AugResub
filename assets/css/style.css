@@ -118,7 +118,7 @@
     height: 200px;
     width: 600px;
     text-align: center;
-    border: 1px solid black;
+   
 }
 
 .wednesday {
@@ -158,4 +158,15 @@
     background-color: #0c252d;
     color: #c3d1d6;
     line-height: 30px;
+}
+
+#address {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Open Sans';
+    color: #0c252d;
+    margin-top: 10px;
+
+    
 }
