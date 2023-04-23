@@ -1,8 +1,13 @@
+
+
 /* Header Section */
 
 .container {
+    margin: 0;
+    padding: 0;
     width: 100%;
     height: 200px;
+    
     list-style: none;
     display: flex;
     line-height: 15px;
@@ -51,7 +56,7 @@
 
     width: 20%;
     float: left;
-    margin: 42px auto;
+    margin: 60px auto;
     text-align: center;
 
 
@@ -83,6 +88,8 @@
 /*About Us */
 
 .about-us {
+    margin: 0;
+    padding: 0;
     height: 300px;
     width: 100%;
 
@@ -191,12 +198,14 @@
 
 .prayer-app {
     margin: 20px
+    padding: 20px
     display: flex;
     font-family: 'Merriweather';
     color: #0c252d;;
 }
 
 .prayer {
+    margin-bottom: 60px;
     padding: 20px;
     box-sizing: border-box;
     float: left;
@@ -206,4 +215,16 @@
     padding: 20px;
     box-sizing: border-box;
     float: right;
+}
+
+/* Footer */
+
+footer {
+    margin: 0;
+    padding: 0;
+   position: fixed;
+    bottom: 0;
+    width: 100%;
+background-color: #0c252d;
+    color: #c3d1d6;
 }
