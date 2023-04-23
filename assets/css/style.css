@@ -186,3 +186,10 @@
 #address a:hover {
     text-decoration: underline;
 }
+
+/* Prayer and App section */
+
+.prayer-app {
+    padding: 20px;
+    box-sizing: border-box;
+}
