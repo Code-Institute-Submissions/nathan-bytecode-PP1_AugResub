@@ -190,6 +190,20 @@
 /* Prayer and App section */
 
 .prayer-app {
+    margin: 20px
+    display: flex;
+    font-family: 'Merriweather';
+    color: #0c252d;;
+}
+
+.prayer {
     padding: 20px;
     box-sizing: border-box;
+    float: left;
+}
+
+.app {
+    padding: 20px;
+    box-sizing: border-box;
+    float: right;
 }
