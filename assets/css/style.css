@@ -135,7 +135,8 @@
 
 
 .about-us-img {
-    width: 75%;
+   display: flex;
+
 }
 
 
