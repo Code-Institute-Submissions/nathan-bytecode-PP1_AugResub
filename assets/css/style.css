@@ -236,6 +236,22 @@
     float: left;
 }
 
+#name {
+    border:2px solid #0c252d;
+}
+
+#email {
+    border:2px solid #0c252d;
+}
+
+#prayer-request {
+    border:2px solid #0c252d;
+}
+
+#submit {
+    border:2px solid #0c252d;
+}
+
 .app {
     padding: 20px;
     box-sizing: border-box;
