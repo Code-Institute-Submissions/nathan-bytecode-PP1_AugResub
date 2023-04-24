@@ -222,11 +222,11 @@
 /* Prayer, App and Social Media section */
 
 .prayer-app {
-
+    
     display: flex;
     font-family: 'Merriweather';
     color: #0c252d;
-    ;
+    justify-content: space-around;
 }
 
 .prayer {
@@ -256,7 +256,8 @@ footer {
     padding: 0;
     position: fixed;
     bottom: 0;
-    width: 1250px;
+    width: 100%;
+    justify-content: space-evenly;
     background-color: #0c252d;
     color: #c3d1d6;
     font-family: 'Open Sans';
@@ -309,4 +310,12 @@ footer {
         width: 100%;
     }
 
+}
+
+@media screen and (max-width:600px){
+
+    .service-times {
+
+    }
+    
 }
