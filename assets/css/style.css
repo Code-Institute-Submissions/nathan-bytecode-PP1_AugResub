@@ -106,25 +106,21 @@
 /*About Us */
 
 .about-us {
-    margin: 0;
-    padding: 0;
+   
     height: 100%;
     width: 100%;
 
     display: flex;
-    padding-top: 60px;
-    padding-bottom: 80px;
     padding-left: 20px;
-    padding-right: 20px;
-    box-sizing: content-box;
-    position: relative;
+    align-items: center;
+    justify-content: center;
+   
 
 }
 
 .about-us-text {
     width: 50%;
     height: 100%;
-    float: left;
     font-weight: 400;
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -136,7 +132,7 @@
 
 
 .about-us-img {
-    margin-top: 17px;
+    width: 75%;
 }
 
 
