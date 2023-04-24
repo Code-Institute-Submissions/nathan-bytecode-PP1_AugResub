@@ -154,14 +154,17 @@
 
 .stl-pos {
     height: 150px;
+    width: 75%;
     margin: 0 auto;
+    display: flex;
 }
 
 .wednesday {
     width: 150px;
     height: 150px;
+    display: flex;
     text-align: center;
-    display: inline-block;
+    align-items: center;
     margin: 0 auto;
     border-radius: 50%;
     border: 2px solid #c3d1d6;
@@ -173,8 +176,9 @@
 .friday {
     width: 150px;
     height: 150px;
+    display: flex;
     text-align: center;
-    display: inline-block;
+    align-items: center;
     margin: 0 auto;
     border-radius: 50%;
     border: 2px solid #c3d1d6;
@@ -186,8 +190,9 @@
 .sunday {
     width: 150px;
     height: 150px;
+    display: flex;
     text-align: center;
-    display: inline-block;
+    align-items: center;
     margin: 0 auto;
     border-radius: 50%;
     border: 2px solid #c3d1d6;
