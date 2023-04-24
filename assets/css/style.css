@@ -220,11 +220,24 @@
 /* Footer */
 
 footer {
+    display: flex;
     margin: 0;
     padding: 0;
    position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 1250px;
 background-color: #0c252d;
     color: #c3d1d6;
+}
+
+.copyright {
+   
+}
+
+.contact {
+   
+}
+
+.social-media {
+    
 }
