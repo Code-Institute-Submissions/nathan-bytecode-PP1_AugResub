@@ -108,7 +108,7 @@
 .about-us {
     margin: 0;
     padding: 0;
-    height: 300px;
+    height: 100%;
     width: 100%;
 
     display: flex;
@@ -148,7 +148,7 @@
     position: relative;
     margin-top: 20px;
     margin: 0 auto;
-    height: 200px;
+    height: 100%;
     width: 600px;
     text-align: center;
 
@@ -290,5 +290,16 @@ background-color: #0c252d;
     .about-us-img {
         width: 100%;
     }
+}
+
+@media screen and (max-width:1000px) {
+    .about-us {
+             flex-direction: column;
+    }
+
+    .about-us-text {
+                 width: 100%;
+    }
+
 }
 
