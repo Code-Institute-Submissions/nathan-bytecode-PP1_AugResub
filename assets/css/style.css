@@ -194,7 +194,7 @@
     text-decoration: underline;
 }
 
-/* Prayer and App section */
+/* Prayer, App and Social Media section */
 
 .prayer-app {
     margin: 20px
@@ -217,6 +217,12 @@
     float: right;
 }
 
+
+
+.icon:hover {
+    text-transform: uppercase;
+}
+
 /* Footer */
 
 footer {
@@ -231,14 +237,3 @@ background-color: #0c252d;
     font-family: 'Open Sans';
 }
 
-.copyright {
-   
-}
-
-.contact {
-   
-}
-
-.social-media {
-    
-}
