@@ -1,4 +1,9 @@
-
+*{
+    border: 0;
+     margin: 0;
+     box-sizing: border-box;
+     padding: 0;
+    }
 
 /* Header Section */
 
@@ -17,12 +22,10 @@
 
 /* Church logo */
 .logo {
-    width: 40%;
+    width: 33.33%;
     float: left;
     clear: both;
     border-radius: 50%;
-
-
 
     /*color codes from Canva logo: blue= #5271ff, orange= #ff914d, white= #ffffff */
 
@@ -33,7 +36,7 @@
 .nav {
 
 
-    width: 40%;
+    width: 33.33;
     clear: both;
     display: flex;
     font-family: 'Merriweather', serif;
@@ -54,7 +57,7 @@
 
 #index-verse {
 
-    width: 20%;
+    width: 33.33;
     float: left;
     margin: 60px auto;
     text-align: center;
@@ -69,6 +72,8 @@
     line-height: 1.1;
 
 }
+
+
 
 /* Church Video and Greeting */
 
@@ -197,8 +202,7 @@
 /* Prayer, App and Social Media section */
 
 .prayer-app {
-    margin: 20px
-    padding: 20px
+    
     display: flex;
     font-family: 'Merriweather';
     color: #0c252d;;
@@ -235,5 +239,34 @@ footer {
 background-color: #0c252d;
     color: #c3d1d6;
     font-family: 'Open Sans';
+}
+
+/* Media Queries */
+
+@media screen and (max-width:1200px)  {
+    .container {
+        width: 100%;
+        height: 200px;
+    }
+    
+.logo {
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+
+    .nav {
+        float: right;
+        width: 100%;
+        height: 200px;
+    }
+
+    .index-verse {
+        position: absolute;
+        width: 100%;
+        height: 200px;
+        clear: both;
+
+    }
 }
 
