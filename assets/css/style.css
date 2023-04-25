@@ -351,7 +351,15 @@ footer {
 @media screen and (max-width:600px){
 
     .service-times {
+            flex-direction: column;
+    }
 
+    .prayer-app {
+        flex-direction: column;
+    }
+
+    .app {
+        margin-bottom: 60px;
     }
     
 }
