@@ -45,7 +45,7 @@
         <section>
             <div>
                 <h2 class="sub-heading">Donations</h2>
-                <form method="post" action="">
+                <form class="donation" method="post" action="">
 
                     <h3>Church Donation Form</h3>
 
@@ -60,11 +60,19 @@
                     <br>
                     <br>
 
-                    <label for="prayer-request">What can we pray with you about?</label>
+                    <label for="prayer-request">How much do you want to give?</label>
                     <br>
-                    <textarea id="prayer-request" rows="10" cols="40"
-                        placeholder="Is it related to family, health, finances, growth, direction, etc?"></textarea>
+                    <input type="radio" id="rad1" name="contribution" value="€50">
+                    <label for="rad1">€50</label>
                     <br>
+                    <input type="radio" id="rad2" name="contribution" value="€100">
+                    <label for="rad2">€100</label>
+                    <br>
+                    <input type="radio" id="rad3" name="contribution" value="€200">
+                    <label for="rad3">€200</label>
+                    <br>
+                    <input type="radio" id="rad4" name="contribution" value="€500">
+                    <label for="rad4">€500</label>
                     <br>
 
                     <input id="submit" type="submit">
