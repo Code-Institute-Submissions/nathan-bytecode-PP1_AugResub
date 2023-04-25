@@ -341,6 +341,13 @@ footer {
 
 }
 
+@media  screen and (max-width:750px) {
+    .nav {
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width:600px){
 
     .service-times {
