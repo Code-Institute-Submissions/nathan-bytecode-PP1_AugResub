@@ -366,3 +366,10 @@ footer {
         display: none;
     }
 }
+
+@media screen and (max-width:400px) {
+    .app {
+        margin-bottom: 60px;
+    }
+    
+}
