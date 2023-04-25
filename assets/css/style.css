@@ -362,4 +362,7 @@ footer {
         margin-bottom: 60px;
     }
     
+    .img-style {
+        display: none;
+    }
 }
