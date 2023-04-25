@@ -69,14 +69,10 @@
 /*Bible Verse */
 
 #index-verse {
-
     width: 33.33;
     float: left;
     margin: 60px auto;
     text-align: center;
-
-
-
     clear: both;
     font-family: 'Open Sans';
     color: #c3d1d6;
@@ -102,6 +98,7 @@
 .sub-heading {
     text-align: center;
     padding: 20px;
+    padding-bottom: 40px;
     font-family: 'Merriweather', serif;
     color: #0c252d;
 }
@@ -109,12 +106,12 @@
 /*About Us */
 
 .about-us {
-
     height: 100%;
     width: 100%;
-
     display: flex;
     padding-left: 20px;
+    padding-top:60px;
+    padding-bottom: 60px;
     align-items: center;
     justify-content: center;
 
