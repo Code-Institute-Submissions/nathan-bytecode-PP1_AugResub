@@ -258,6 +258,12 @@ li {
     border:2px solid #0c252d;
 }
 
+#prayer-reply {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #0c252d;
+}
+
 .app {
     padding: 20px;
     box-sizing: border-box;
