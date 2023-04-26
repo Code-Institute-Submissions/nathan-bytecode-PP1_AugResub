@@ -155,6 +155,25 @@ Once the master branch has been selected, the page will be automatically refresh
 The live link can be found here
 ```https://nathan-bytecode.github.io/PP1/
 
+
+### Tech Stack
+
+**Languages:** HTML5, CSS3.
+
+**IDE:** Gitpod, Github, then migrated onto Codeanywhere which also has VS Studio installed.
+
+**Images:** Canva, Shutterstock, Mockup, Freepik.
+
+**Videos:** YouTube.
+
+**Font-family:** Google Fonts.
+
+**Icons:** Font Awesome.
+
+**Wireframes:** Balsamiq.
+
+**Other Tools:** Google Dev Tools.
+
 ---
 
 Happy coding!
