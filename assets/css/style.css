@@ -316,6 +316,18 @@ footer {
     }
 }
 
+@media screen and (max-width:1100px) {
+#index-verse {
+    padding-top: 40px;
+}
+}
+
+@media screen and (max-width:905px) {
+    .nav-style {
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width:1000px) {
     .about-us {
         flex-direction: column;
@@ -324,11 +336,29 @@ footer {
     .about-us-text {
         width: 100%;
     }
+
+    .about-us-img {
+        margin-bottom: 60px;
+    }
+
+    #prayer-reply {
+        margin-bottom: 80px;
+    }
+}
+
+@media screen and (max-width:870px) {
+    #index-verse {
+        display: none;
+    }
 }
 
 @media screen and (max-width:800px) {
     footer {
         flex-direction: column;
+    }
+
+    #thank-you {
+        margin-bottom: 60px;
     }
 }
 
@@ -351,6 +381,10 @@ footer {
 
 @media screen and (max-width:600px){
 
+.nav {
+    margin-right: 150px;
+}
+
     .service-times {
             flex-direction: column;
     }
@@ -367,7 +401,11 @@ footer {
         display: none;
     }
 }
-
+@media screen and (max-width:410px) {
+    .nav {
+        margin-right: 65px;
+    }
+}
 @media screen and (max-width:400px) {
     .app {
         margin-bottom: 60px;
@@ -376,4 +414,8 @@ footer {
     .footer {
         flex-direction: column;
     }
+}
+
+@media screen and (max-width:320px) {
+    margin-right: 55px;
 }
