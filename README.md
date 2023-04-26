@@ -22,13 +22,12 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 - Donations Form
 
 ### Home Page
-![Home page landing header](assets/readme-images/mockup1.png)
 
 - This feature is the landing page of the website. The header consists of a church logo, bible verse and nav bar.
 
 - Below the greeting of the church is a video to give context of kind of faith community Revival Life Church is.
 
-![Welcome to church video image](assets/readme-images/Revival%20Life%20Church%20-%20Home%20landing%20page%20header.png)
+![Home page landing header](assets/readme-images/mockup1.png)
 
 - It also has an About Us section to further give context to the user of the websites purpose. Beside the About Us text is an image of church goers.
 
