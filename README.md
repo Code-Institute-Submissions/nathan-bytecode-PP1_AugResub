@@ -146,6 +146,42 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 
 ![Screenshot of passing validator HTML and CSS](assets/readme-images/tests/Screenshot%20(css%20test%20pass).png)
 
+## Credits
+
+### Design
+
+- Color Theme
+![Screenshot of color theme](assets/readme-images/design/Screenshot%20(coolors).png)
+
+These are the two primary colors I used along with the static white. Thanks to Coolors for this screenshot.
+
+- Wireframes
+![Screenshot of wireframe1](assets/readme-images/design/Screenshot%20(wireframe1).png)
+![Screenshot of wireframe2](assets/readme-images/design/Screenshot%20(wireframe2).png)
+![Screenshot of wireframe3](assets/readme-images/design/Screenshot%20(wireframe3).png)
+![Screenshot of wireframe4](assets/readme-images/design/Screenshot%20(wireframe4).png)
+
+As you can see above that I set out to do the website in a certain way, but as things developed I changed the content display around some. Thanks to Balsamiq for starting me with an end view in mind.
+
+- Typography
+
+The two font-families I used for my website are 'Merriweather' and 'Open Sans'. These two compliment each other well. Thanks to Google Fonts I found this match.
+
+
+### Media
+
+- Canva
+
+My project's church logo came from Canva, where I could personalise an image I found.
+
+- YouTube
+
+The two videos are credited from YouTube. I do not own the rights to any.
+
+- Shutterstock
+
+The rest of the images found on my website are credited to Shutterstock's fine resolution.
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -154,6 +190,8 @@ From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here
 ```https://nathan-bytecode.github.io/PP1/
+
+
 
 
 ### Tech Stack
