@@ -29,22 +29,22 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 
 - It also has an About Us section to further give context to the user of the websites purpose. Beside the About Us text is an image of church goers.
 
-![Family smiling in church image](assets/readme-images/Screenshot%20(family).png)
+![Family smiling in church image](assets/readme-images/features/Screenshot%20(family).png)
 
 - It features a display for the church service times and location to give the user the invitation to join a service in person. 
 
 ### Beliefs Page
-![Screenshot of Beliefs page landing](assets/readme-images/screenshot%20beliefs%20landing%20page.png)
+![Screenshot of Beliefs page landing](assets/readme-images/features/screenshot%20beliefs%20landing%20page.png)
 
 - This feature is a layout similar to the Home page for web design integrity. The differences are within the main section. Changes are made with a different video, content text and image.
 
-![Screenshot of summary of beliefs and image](assets/readme-images/Screenshot%20(summary%20of%20beliefs).png)
+![Screenshot of summary of beliefs and image](assets/readme-images/features/Screenshot%20(summary%20of%20beliefs).png)
 
 - This page is to allow the user a feel of what the church faith and practices are. This will help the user quickly make a decision if they believe the same or not.
 
 ### Donations Page
 
-![Screenshot of Donations page landing](assets/readme-images/Screenshot%20(donations%20landing).png)
+![Screenshot of Donations page landing](assets/readme-images/features/Screenshot%20(donations%20landing).png)
 
 - This feature is give payment options to the user if they chose to make a donation to the church.
 
@@ -59,7 +59,7 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Screenshot of service times and location](assets/readme-images/Screenshot%20(service%20times).png)
+![Screenshot of service times and location](assets/readme-images/features/Screenshot%20(service%20times).png)
 
 ### Google Maps Address
 - Featured on the Home page, Beliefs page and on the Thank You page (when directed from filling out a donations form) to direct the user to Google Maps.
@@ -76,14 +76,14 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 
 - This is a vital way of allowing people to feel like their needs are cared for. It can also be used as a follow up form of communication from the church to the user.
 
-![Screenshot of prayer request form](assets/readme-images/Screenshot%20(prayer%20request%20form).png)
+![Screenshot of prayer request form](assets/readme-images/features/Screenshot%20(prayer%20request%20form).png)
 
 ### Church Logo link to app
 - Featured on the Home page and Beliefs page to allow the user to download the church app. It is an image of the church logo within an anchor element to redirect to Google Playstore.
 
 - This would allow the user more updated notifcations of church events, ways of communication, involvement, etc.
 
-![Screenshot of church logo app link](assets/readme-images/Screenshot%20(church%20logo%20app%20link).png)
+![Screenshot of church logo app link](assets/readme-images/features/Screenshot%20(church%20logo%20app%20link).png)
 
 *Note - There is no actual church mobile app developed. This is done to show way potenital features can be included. This is something I plan to get into in the future that is, mobile app development.
 
