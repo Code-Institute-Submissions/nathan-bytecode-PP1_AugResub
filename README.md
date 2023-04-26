@@ -34,19 +34,22 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 - It features a display for the church service times and location to give the user the invitation to join a service in person. 
 
 ### Beliefs Page
-![Screenshot of Beliefs page landing](assets/readme-images/features/screenshot%20beliefs%20landing%20page.png)
 
 - This feature is a layout similar to the Home page for web design integrity. The differences are within the main section. Changes are made with a different video, content text and image.
 
-![Screenshot of summary of beliefs and image](assets/readme-images/features/Screenshot%20(summary%20of%20beliefs).png)
+![Screenshot of Beliefs page landing](assets/readme-images/features/screenshot%20beliefs%20landing%20page.png)
 
 - This page is to allow the user a feel of what the church faith and practices are. This will help the user quickly make a decision if they believe the same or not.
 
+![Screenshot of summary of beliefs and image](assets/readme-images/features/Screenshot%20(summary%20of%20beliefs).png)
+
+
+
 ### Donations Page
 
-![Screenshot of Donations page landing](assets/readme-images/features/Screenshot%20(donations%20landing).png)
-
 - This feature is give payment options to the user if they chose to make a donation to the church.
+
+![Screenshot of Donations page landing](assets/readme-images/features/Screenshot%20(donations%20landing).png)
 
 ### Footer
 
