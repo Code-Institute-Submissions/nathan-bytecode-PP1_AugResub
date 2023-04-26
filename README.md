@@ -146,7 +146,14 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 
 ![Screenshot of passing validator HTML and CSS](assets/readme-images/tests/Screenshot%20(css%20test%20pass).png)
 
+## Deployment
 
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here
+```https://nathan-bytecode.github.io/PP1/
 
 ---
 
