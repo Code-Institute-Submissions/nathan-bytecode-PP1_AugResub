@@ -2,105 +2,122 @@
 
 # Welcome to Revival Life Church
 
-This project website was built for the basis of a born-again Christian church. The project has a home page, beliefs page and a donations page. Each with a header, main and footer. The website's content consists of church service times, the location of the church, the church's contact email and phone number. 
+Revival Life Church is a site of a Penetcostal Christian ministry based in Tullamore, County Offaly. It will target church goers but also is inclusive to all people. Revival Life Church will be useful for those searching for the church service-times, location, contact information, doctrinal beliefs, and more.
+
+![Revival Life Church](file:///C:/Users/35385/Desktop/PP1/images/Revival%20Life%20Church%20Mockup%20website.png)
+
+## Features
+
+- Home Page
+- Beliefs Page
+- Donations Page
+- Footer
+- Navigation Bar
+- Google Maps Address Link
+- Video Controls
+- Prayer Request Form
+- Church Logo link to download app
+- Social Media Icons
+- Cross Icon to other website
+- Donations Form
+
+### Home Page
+![Home page landing header](assets/readme-images/mockup1.png)
+
+- This feature is the landing page of the website. The header consists of a church logo, bible verse and nav bar.
+
+- Below the greeting of the church is a video to give context of kind of faith community Revival Life Church is.
+
+![Welcome to church video image](assets/readme-images/Revival%20Life%20Church%20-%20Home%20landing%20page%20header.png)
+
+- It also has an About Us section to further give context to the user of the websites purpose. Beside the About Us text is an image of church goers.
+
+![Family smiling in church image](assets/readme-images/Screenshot%20(family).png)
+
+- It features a display for the church service times and location to give the user the invitation to join a service in person. 
+
+### Beliefs Page
+![Screenshot of Beliefs page landing](assets/readme-images/Screenshot%20(beliefs%20page).png)
+
+- This feature is a layout similar to the Home page for web design integrity. The differences are within the main section. Changes are made with a different video, content text and image.
+
+![Screenshot of summary of beliefs and image](assets/readme-images/Screenshot%20(summary%20of%20beliefs).png)
+
+- This page is to allow the user a feel of what the church faith and practices are. This will help the user quickly make a decision if they believe the same or not.
+
+### Donations Page
+
+![Screenshot of Donations page landing](assets/readme-images/Screenshot%20(donations%20landing).png)
+
+- This feature is give payment options to the user if they chose to make a donation to the church.
+
+### Footer
+
+- This feature displays my copyright name as the webiste's author.
+
+- It also includes the church email and phone number. This is a fixed footer and can be viewed immediately upon landing on the website and also throughout the user's entire experience on the website. This is done to ensure the user has the vital contact infomation right away or whenever needed.
 
 
-## Gitpod Reminders
+![Screenshot of service times and location](assets/readme-images/Screenshot%20(service%20times).png)
+### Navigation Bar
+- Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beliefs and Donations page and is identical in each page to allow for easy navigation.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-`python3 -m http.server`
+### Google Maps Address
+- Featured on the Home page, Beliefs page and on the Thank You page (when directed from filling out a donations form) to direct the user to Google Maps.
 
-A blue button should appear to click: _Make Public_,
+- This feature will allow the user to idenify the church location and use the features availbale there such as GPS during car drives to the church.
 
-Another blue button should appear to click: _Open Browser_.
+*Note - Not actual church address giving as this site is done as a potential template.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Video Controls
+- Featured on the Home page and Beliefs page to give a further contect on the pages' content. This allows the user to press play, pause, make the video full-screen, adjust the volume, or quite simply not play the video at all.
 
-A blue button should appear to click: _Make Public_,
+### Prayer Request Form
+- Featured on the Home page and Beliefs page to allow the user to fill out a prayer request.
 
-Another blue button should appear to click: _Open Browser_.
+- This is a vital way of allowing people to feel like their needs are cared for. It can also be used as a follow up form of communication from the church to the user.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Church Logo link to app
+- Featured on the Home page and Beliefs page to allow the user to download the church app. It is an image of the church logo within an anchor element to redirect to Google Playstore.
 
-To log into the Heroku toolbelt CLI:
+- This would allow the user more updated notifcations of church events, ways of communication, involvement, etc.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+*Note - There is no actual church mobile app developed. This is done to show way potenital features can be included. This is something I plan to get into in the future that is, mobile app development.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Social Media Icons
+- Featured on the Home page and Beliefs page to allow the user to connect to the church social media platforms such as Facebook, Instagram and Twitter.
 
-------
+- Having social media websites availbale would communicate to any user that the church is modern, relevant and desirable.
 
-## Release History
+*Note - Not actual social media accounts for the church were created. This is done for potenital purposes and the display of I know how.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Cross Icon to other website
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+- Featured on the Beliefs page only under the summary of beliefs text section. 
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+- This is to direct the user to the offical statment of beliefs to further explain what doctrine the church holds dear to.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Donations Form
+- Featured on the Donations page only as the main content.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+- This is to allow the user an ease of payment, as this is a regular service provided on official church websites globally. 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+*Note - If time permitted, I would have set up a Paypal, Google Pay and Apple system of payment.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+### Features left to implenment
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- To give the user a link to a bible app download
+- To give the user access to worship music playlist
+- To give the user an events page with the option to select and book via a calandar
+- To give the user the option to book a pastor for some one to one council.
+- To give the user the option to sign up to partake in an outreach, such as feeding the homeless.
+- To give the user an actual church mobile app to download.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
 
 ---
 
