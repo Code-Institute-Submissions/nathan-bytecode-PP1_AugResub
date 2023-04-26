@@ -54,6 +54,15 @@
     font-family: 'Merriweather', serif;
 }
 
+.nav-style {
+    display: flex;
+}
+
+li {
+    margin-right: 50px;
+    list-style-type: none;
+}
+
 .nav a {
     text-decoration: none;
     color: #c3d1d6;
