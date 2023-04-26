@@ -214,4 +214,4 @@ The live link can be found here
 
 ---
 
-Happy coding!
+A big thanks to Code Institue for teaching me how to build my own website throough HTML and CSS. I also want to acknowledge my class mate Benji for showing me the great benefits of Google's dev.tool. 
