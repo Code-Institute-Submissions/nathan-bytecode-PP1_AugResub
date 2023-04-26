@@ -1,10 +1,9 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Revival Life Church logo](assets/readme-images/Revival%20Life%20Church%20logo.png)
 
-Welcome Nathan Nicholson,
+# Welcome to Revival Life Church
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This project website was built for the basis of a born-again Christian church. The project has a home page, beliefs page and a donations page. Each with a header, main and footer. The website's content consists of church service times, the location of the church, the church's contact email and phone number. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
 ## Gitpod Reminders
 
