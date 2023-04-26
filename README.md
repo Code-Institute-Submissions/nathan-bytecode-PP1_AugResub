@@ -117,6 +117,31 @@ Revival Life Church is a site of a Penetcostal Christian ministry based in Tulla
 - To give the user an actual church mobile app to download.
 
 
+## Running Tests
+
+### W3C Validator (HTML)
+
+- When I ran this validator I discovered eleven minor errors with my HTML code. Below are some screenshots of that test.
+
+![screenshot1 of test](assets/readme-images/tests/Screenshot%20(html%20test%20error1).png)
+![screenshot2 of test](assets/readme-images/tests/Screenshot%20(html%20test%20erro2).png)
+![screenshot3 of test](assets/readme-images/tests/Screenshot%20(html%20test%20error3).png)
+![screenshot4 of test](assets/readme-images/tests/Screenshot%20(html%20test%20error%204).png)
+
+- Now the code is corrected and validated.
+
+![Screenshot of html test pass](assets/readme-images/tests/Screenshot%20(html%20test%20pass).png)
+
+
+### Jigsaw Validator (CSS)
+
+- When I ran this validator I discovered two mionor errors with my CSS code. Below is a screenshot of that test.
+
+![Screenshot of css erros](assets/readme-images/tests/Screenshot%20(css%20test).png)
+
+- Now the code is corrected and validated.
+
+![Screenshot of passing validator HTML and CSS](assets/readme-images/tests/Screenshot%20(css%20test%20pass).png)
 
 
 
