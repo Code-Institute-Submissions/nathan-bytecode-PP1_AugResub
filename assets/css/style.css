@@ -191,6 +191,9 @@ li {
 }
 
 /* Prayer, App and Social Media section */
+#prayer-request {
+    width: 200px;
+}
 
 .prayer-app {
     display: flex;
